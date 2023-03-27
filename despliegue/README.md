@@ -8,7 +8,7 @@ https://github.com/sjuarezp/tasklist_buildapps.git
 
 
 
-## 2.5. Publicar App
+# 3. Publicar App
 
 ![SJP APP](/data/img/Frontend/5_PublicarUI/1.png)
 
