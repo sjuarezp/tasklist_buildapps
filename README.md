@@ -37,10 +37,10 @@ Se creará una aplicación Frontend y se desarrollarán 2 pantallas: Lectura de 
 
 [//]: # (Links)
 
-[Crear Backend]: <https://github.com/sjuarezp/tasklist_buildapps/backend>
+[Crear Backend]: <https://github.com/sjuarezp/tasklist_buildapps/tree/main/backend>
 
 
-[Crear Frontend]: <https://github.com/sjuarezp/tasklist_buildapps/frontend>
+[Crear Frontend]: <https://github.com/sjuarezp/tasklist_buildapps/tree/main/frontend>
 
 
-[Probar App]: <https://github.com/sjuarezp/tasklist_buildapps/frontend>
+[Probar App]: <https://github.com/sjuarezp/tasklist_buildapps/tree/main/despliegue>
